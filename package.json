@@ -1,0 +1,7 @@
+{
+  "name": "watchman",
+  "version": "1.0.0",
+  "bin": {
+    "watchman": "./cli.js"
+  }
+}
