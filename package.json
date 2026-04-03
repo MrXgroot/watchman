@@ -1,7 +1,16 @@
 {
-  "name": "watchman",
+  "name": "watchman-cli",
   "version": "1.0.0",
+  "description": "Simple file watcher CLI like nodemon",
   "bin": {
     "watchman": "./cli.js"
-  }
+  },
+  "keywords": [
+    "watcher",
+    "cli",
+    "nodemon",
+    "devtool"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
 }
